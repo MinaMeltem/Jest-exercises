@@ -1,8 +1,4 @@
-# Level Up Tutorials JavaScript Testing 101
-
-## Help Support
-
-https://www.leveluptutorials.com/store
+# JavaScript Testing with Jest 101
 
 ## How To Use
 
@@ -13,4 +9,4 @@ npm install
 npm test
 ```
 
-Then follow along on Youtube
+
