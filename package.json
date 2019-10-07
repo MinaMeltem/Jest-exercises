@@ -18,5 +18,8 @@
   "jest": {
     "verbose": true,
     "testURL": "http://localhost:1234/"
+  },
+  "dependencies": {
+    "mem": "^5.1.1"
   }
 }
